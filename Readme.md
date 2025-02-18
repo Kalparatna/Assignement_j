@@ -18,8 +18,8 @@ This is a Django project for managing and processing heart rate data. It uses **
 Clone the project repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/Kalparatna/Assignement_j.git
+cd Assignement_j
 ```
 
 ### 2. Install Dependencies
